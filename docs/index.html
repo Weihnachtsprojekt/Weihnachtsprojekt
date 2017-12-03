@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="de-de">
-	<head>
+
+<head>
 			<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +12,7 @@
 		<meta name="generator" content="Hugo 0.30.2" />
 		<style>
 		body {
-		background: #f9f9f9;
+		background-image: url( img/christmas.jpg);
 		color: ;
 		}
 		</style>
@@ -19,30 +20,33 @@
 		<link rel="stylesheet" type="text/css" href="https://weihnachtsprojekt.github.io/Weihnachtsprojekt/css/component.css" />
 		
 		<script src="https://weihnachtsprojekt.github.io/Weihnachtsprojekt/js/modernizr.custom.js"></script>
-
+ 
 	
-	</head>
-	<body>
-		<div class="container">	
-							<header class="clearfix">
+</head>
+
+<body>
+	<div class="container">
+					<header class="clearfix">
 				<h1>Weihnachtsprojekt<span>Lasst uns was bewirken</span></h1>
-			</header>
-			<div class="main">
-				<ul id="og-grid" class="og-grid">
-					
-					<li>
-						<a href="./content/test.md" data-largesrc="images/full/1.png" data-title="Hugrid Theme" data-description="Hier kommt ein beispiel Text hin" data-buttontext="">
-							<img src="images/thumbs/1.png" alt="Hugrid Theme"/>
-						</a>
-					</li>
-					
-				</ul>
-				<footer>			
-	Made by <a href="http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/">Codrops</a>, <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/aerohub">me</a>
+			</header> 
+		<div class="note-container">
+    <p class="note-text">
+        Mitmachen ist ganz einfach. Stelle einfach jede Adventwoche ein gemeinnütziges Projekt das dier am Herzen liegt auf deinem Kanal, Stream oder Blog vor. Twitter mit
+        #Weihnachtsprojekt oder #Chrismasproject. Möchtest du das dein Projekt mit auf die Seite kommt schreibe mich doch
+        einfach an.
+        <a href="mailto:info@gallimathias.de">info@gallimathias.de</a>
+    </p>
+</div>
+		<div class="main">
+			<ul id="og-grid" class="og-grid">
+				
+			</ul>
+			<footer>			
+	Made by <a href="http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/">Codrops</a>, <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/aerohub">me</a>. Background Image by Cocoparisienne from pixabay.com CC0
 </footer>
-			</div>
 		</div>
-				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 		<script>
 			var $event = $.event,
 			$special,
@@ -313,7 +317,7 @@
 					create : function() {
 						this.$title = $( '<h3></h3>' );
 						this.$description = $( '<p></p>' );
-						this.$href = $( '<a href="#" target="_blank">Get the theme</a>' );
+						this.$href = $( '<a href="#" target="_blank">Zum Projekt</a>' );
 						this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
 						this.$loading = $( '<div class="og-loading"></div>' );
 						this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
@@ -352,7 +356,7 @@
 						this.$title.html( eldata.title );
 						this.$description.html( eldata.description );
 						if(eldata.buttontext) this.$href.text(eldata.buttontext);
-						else this.$href.text("Get the theme")
+						else this.$href.text("Zum Projekt")
 
 						if (eldata.href) {
 							this.$href.attr( 'href', eldata.href );
@@ -483,5 +487,6 @@
 			});
 		</script>
 
-	</body>
+</body>
+
 </html>

@@ -28,17 +28,21 @@ html { height: 100%; }
     *zoom: 1;
 }
 
+footer{
+	margin-left: 10px;
+}
+
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     font-weight: 300;
     font-size: 15px;
-    color: #333;
+    color: #C03303;
     overflow: scroll;
     overflow-x: hidden;
 }
 
 a {
-	color: #555;
+	color: #C03303;
 	text-decoration: none;
 }
 
@@ -65,7 +69,7 @@ a {
 	line-height: 38px;
 	margin: 0 auto;
 	font-weight: 700;
-	color: #333;
+	color: #C03303;
 }
 
 .container > header h1 span {
@@ -78,3 +82,14 @@ a {
 	text-align: center;
 	padding: 50px 20px;
 }
+
+.note-container{
+}
+
+.note-text {
+	text-align: center;
+	max-width: 50rem;
+	margin: auto;
+	text-shadow: 1px 1px #0F0C0B;
+}
+
