@@ -5,3 +5,11 @@ thumb = "img/wuenschewagen_thumb.jpg"
 alt = "Der Wünschewagen"
 description = "Der Wünschewagen ist ein Projekt bei dem mit einem speziell dafür ausgestatteten Krankentransportwagen letzte Wünsche erfüllt werden können. Danke an alle Ehrenamtlichen Helfern des Projekts Wünschwagen"
 url = "https://wuenschewagen.com/"
+
+[[items]]
+title = "Deutscher Kinderschutzbund Bundesverband e.V."
+image = "img/kinderschutzbund.jpg"
+thumb = "img/kinderschutzbund_thumb.jpg"
+alt = "Kinderschutzbund"
+description = "Der Deutsche Kinderschutzbund Bundesverband e.V. setzt sich für den Schutz von Kindern vor Gewalt, gegen Kinderarmut und für die Umsetzung der Kinderrechte in Deutschland ein."
+url = "http://dksb.de/content/start.aspx"
