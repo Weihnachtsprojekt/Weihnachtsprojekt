@@ -13,3 +13,11 @@ thumb = "img/kinderschutzbund_thumb.jpg"
 alt = "Kinderschutzbund"
 description = "Der Deutsche Kinderschutzbund Bundesverband e.V. setzt sich für den Schutz von Kindern vor Gewalt, gegen Kinderarmut und für die Umsetzung der Kinderrechte in Deutschland ein."
 url = "http://dksb.de/content/start.aspx"
+
+[[items]]
+title = "Boxen macht Schule e. V."
+image = "img/bms.jpg"
+thumb = "img/bms_thumb.jpg"
+alt = "BMS e.V."
+description = "Um \"schwierigen Jugendlichen\" im Alltag zu helfen wird mit ihnen bei Boxen macht Schule geboxt. Nicht nur das es die Schüler gut anspricht sondern auch der Respekt unterinander, die Regeln, Disziplin, Gewaltfreier Umgang lassen sich in den alltag Übernehmen. Die körperliche auslastung erholt zudem viele Jugendliche. Danke für das tolle Projekt"
+url = "http://www.boxen-macht-schule.de/"
