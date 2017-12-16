@@ -21,3 +21,11 @@ thumb = "img/bms_thumb.jpg"
 alt = "BMS e.V."
 description = "Um \"schwierigen Jugendlichen\" im Alltag zu helfen wird mit ihnen bei Boxen macht Schule geboxt. Nicht nur das es die Schüler gut anspricht sondern auch der Respekt unterinander, die Regeln, Disziplin, Gewaltfreier Umgang lassen sich in den alltag Übernehmen. Die körperliche auslastung erholt zudem viele Jugendliche. Danke für das tolle Projekt"
 url = "http://www.boxen-macht-schule.de/"
+
+[[items]]
+title = "betterplace.org"
+image = "img/betterplace.jpg"
+thumb = "img/betterplace_thumb.jpg"
+alt = "betterplace"
+description = "Eine gemeinnützige und Transparente Platform für gemeinnützige Projekte. Auf der seite befinden sich ettliche Projekte die man gerne Unterstützen würde, ein Blick lohnt sich immer. Mein Highlite ist das man z.B. auch an seinem oder wegen seinem Geburtstag für ein Projekt gemeinsam Spenden sammeln kann."
+url = "https://www.betterplace.org"
