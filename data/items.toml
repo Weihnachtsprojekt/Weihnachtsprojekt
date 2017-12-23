@@ -29,3 +29,11 @@ thumb = "img/betterplace_thumb.jpg"
 alt = "betterplace"
 description = "Eine gemeinnützige und Transparente Platform für gemeinnützige Projekte. Auf der seite befinden sich ettliche Projekte die man gerne Unterstützen würde, ein Blick lohnt sich immer. Mein Highlite ist das man z.B. auch an seinem oder wegen seinem Geburtstag für ein Projekt gemeinsam Spenden sammeln kann."
 url = "https://www.betterplace.org"
+
+[[items]]
+title = "Herzenzwünsche e. V."
+image = "img/herzenswuensche-ev.jpg"
+thumb = "img/herzenswuensche-ev_thumb.jpg"
+alt = "Herzenzwünsche"
+description = "Ehrenamtliche Helfer und Helferinnen geben ihr bestes um zu kranken und schwerkranken Kindern und Jugendlichen engen Kontakt aufzubauen um herauszufinden Welcher wunsch einem Kind oder Jugendlichem neuen Mut und neue Kraft geben kann. Denn die erfüllung eines lang gehegten Traumes trägt entscheidend dazu bei den belastenden Klinikalltag besser zu bewältigen. Jeder Wunsch wird ganz idividuell und mit Engagement verwirklicht. Egal ob das große Idol treffen, den Europapark besuchen oder eine schöne Geburtstagsfeier. Danke für euer Engagment und diesen Tollen Verein."
+url = "https://www.herzenswuensche.de/"
